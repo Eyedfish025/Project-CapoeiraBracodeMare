@@ -11,7 +11,7 @@
         <h1>Bem-vindo à Capoeira Braço de Maré</h1>
         <ul>
             <li><a href="/home">Início</a></li>
-            <li><a href="#">Contato</a></li>
+            <li><a href="/contato">Contato</a></li>
         </ul>
     </nav>
     <div>
@@ -38,6 +38,14 @@
                 <img src="" alt="Mestre Pastinha">
                 <p>Mestre Pastinha formado e graduado na capoeira Angola, com mais de X anos de experiencia</p>
             </div>
+        </div>
+        <div>
+            <div>
+                <h3>Localização</h3>
+                <div><iframe src="https://maps.app.goo.gl/478bgbrheUkk25uMA"></iframe></div>
+            </div>
+            <h3>Nossas Aulas</h3>
+            <p>Oferecemos aulas de capoeira Angola para todas as idades e níveis de habilidade. Venha aprender conosco!</p>
         </div>
     </div>
 </body>
